@@ -1,27 +1,37 @@
 # Matheus Fritzke 🧑🏼‍💻
 
-Bem-vindo(a) ao **meu perfil no GitHub!** aqui você encontra meus repositórios onde armazendo boa parte dos meus conhecimentos!!
+Bem-vindo(a) ao **meu perfil no GitHub!** Aqui você encontrará uma coleção dos meus projetos e aprendizados enquanto navego pelo mundo da programação.
+
+## Sobre mim 🌟
+
+Sou um entusiasta da tecnologia, com 21 anos de idade e 3 anos de experiência no desenvolvimento de software. Minha paixão pela programação começou cedo e desde então tenho explorado diversas áreas, desde o desenvolvimento web até a computação em nuvem.
+
+Atualmente, estou cursando React Native na Rocketseat, aprimorando minhas habilidades de desenvolvimento de aplicativos móveis e buscando sempre aprender algo novo a cada dia.
 
 ## Status 🎯
+
+Dê uma olhada nas estatísticas do meu GitHub:
 
 <div> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusGFritzke&theme=dark&show_icons=true">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGFritzke&hide=html&layout=compact&theme=dark">
 </div>
 
+## Formações 🎓
 
-## Status e badges shields 🦄
+- Técnico em Desenvolvimento de Sistemas
 
-Aperfeiçoe o seu perfil e os seus repositórios adicionando **[cards de status](https://github.com/iuricode/readme-template/tree/main/cards-status/readme.md)** e **[badges shields](https://github.com/iuricode/readme-template/tree/main/badges-shields/readme.md)** ao seu readme. Esses cards proporcionam uma visão aprimorada e detalhada das informações relevantes, tornando o seu perfil e os seus projetos ainda mais impressionantes.
+## Certificados e Habilidades 🚀
 
-## Formatações avançadas 🔥
-
-Melhore seus readmes adicionando interações com as **[formatações avançadas.](https://github.com/iuricode/readme-template/tree/main/avancado/readme.md)**
-
-## Contribuição ✨
-
-Ajude a comunidade tornando este projeto ainda mais incrível. Leia como contribuir clicando **[aqui](https://github.com/iuricode/readme-template/blob/main/CONTRIBUTING.md)** e a **[licença](https://github.com/iuricode/readme-template/blob/main/LICENSE.md)**. Estou convencido de que juntos alcançaremos coisas incríveis!
-
-## Aprenda desenvolvimento frontend ❤️
-
-Este repositório é um projeto gratuito para a comunidade de desenvolvedores, mas você pode me ajudar comprando o meu ebook "**[eFront - Estudando frontend do zero](https://iuricode.com/efront)**" se estiver interessado em aprender ou melhorar suas habilidades de desenvolvimento frontend. A sua compra me ajuda a produzir e fornecer mais conteúdo gratuito para a comunidade. Adquira agora e comece sua jornada no desenvolvimento frontend.
+- Certificado de ReactJs da Rocketseat
+- Skills: 
+  - JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  - TypeScript ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  - Node.js ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  - React ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  - React Native ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  - Google Cloud ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+  - Styled Components ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+  - Tailwind CSS ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- IDE: 
+  - Visual Studio Code ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
