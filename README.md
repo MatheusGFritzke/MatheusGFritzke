@@ -2,6 +2,8 @@
 
 Bem-vindo(a) ao **meu perfil no GitHub!** Aqui você encontrará uma coleção dos meus projetos e aprendizados enquanto navego pelo mundo da programação.
 
+![Imagem](https://raw.githubusercontent.com/douglasacioli/douglasacioli/main/assets/github-metrics.svg)
+
 ## Sobre mim 🌟
 
 Sou um entusiasta da tecnologia, com 21 anos de idade e 3 anos de experiência no desenvolvimento de software. Minha paixão pela programação começou cedo e desde então tenho explorado diversas áreas, desde o desenvolvimento web até a computação em nuvem.
