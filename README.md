@@ -1,14 +1,11 @@
-# Readme Template 📜
+# Matheus Fritzke 🧑🏼‍💻
 
-Bem-vindo(a) ao **Readme Template**! Aqui você encontrará uma variedade de modelos de readme para usar em seus repositórios e perfil no GitHub. Explore nossa coleção de templates e encontre aquele que melhor se adequa ao seu projeto. Comece agora mesmo e deixe o seu readme brilhar!
+Bem-vindo(a) ao **meu perfil no GitHub!** aqui você encontra meus repositórios onde armazendo boa parte dos meus conhecimentos!!
 
-## Templates de perfil ☕️
+## Status 🎯
 
-Diga adeus aos perfis sem graça. Com nossos **[templates de perfil](https://github.com/iuricode/readme-template/tree/main/perfil)**, você terá um readme de perfil íncrivel. Com cores vibrantes,imagens surpreendentes e outros elementos visuais cativantes.
+[![card](https://github-readme-stats.vercel.app/api?username=MatheusGFritzke&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## Templates de repositório 🎉
-
-Documente seus projetos com nossos exemplos de **[templates de repositório](https://github.com/iuricode/readme-template/tree/main/repositorio)** incríveis. Esses templates abrangem diversas seções essenciais, incluindo descrição, instalação, uso, contribuição e licença.
 
 ## Status e badges shields 🦄
 
