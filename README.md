@@ -1,15 +1,6 @@
-<div>
-  <div style="width: 50%; display: inline-block; vertical-align: top;">
-    <h1>Matheus Fritzke 🧑🏼‍💻</h1>
-    <p>Bem-vindo(a) ao <strong>meu perfil no GitHub!</strong> Aqui você encontrará uma coleção dos meus projetos e aprendizados enquanto navego pelo mundo da programação.</p>
-  </div>
-  <div style="width: 50%; display: inline-block; vertical-align: top;">
-    <p align="center">
-      <img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" width="250px" height="300px">
-    </p>
-  </div>
-</div>
+# Matheus Fritzke 🧑🏼‍💻
 
+Bem-vindo(a) ao **meu perfil no GitHub!** Aqui você encontrará uma coleção dos meus projetos e aprendizados enquanto navego pelo mundo da programação.
 
 ## Sobre mim 🌟
 
