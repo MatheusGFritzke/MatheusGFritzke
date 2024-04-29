@@ -4,7 +4,7 @@ Bem-vindo(a) ao **meu perfil no GitHub!** aqui você encontra meus repositórios
 
 ## Status 🎯
 
-<div style="display: flex; justify-content: center; align-items: center;"> 
+<div style= "display: flex; justify-content: space-between; align-items: center;"> 
 <img src="https://github-readme-stats.vercel.app/api?username=MatheusGFritzke&theme=dark&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGFritzke&hide=html&layout=compact&theme=dark">
 </div>
