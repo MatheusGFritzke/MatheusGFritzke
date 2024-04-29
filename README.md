@@ -5,6 +5,7 @@ Bem-vindo(a) ao **meu perfil no GitHub!** aqui você encontra meus repositórios
 ## Status 🎯
 
 [![card](https://github-readme-stats.vercel.app/api?username=MatheusGFritzke&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGFritzke&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Status e badges shields 🦄
