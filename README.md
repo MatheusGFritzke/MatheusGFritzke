@@ -4,9 +4,9 @@ Bem-vindo(a) ao **meu perfil no GitHub!** Aqui você encontrará uma coleção d
 
 ## Sobre mim 🌟
 
-Sou um entusiasta da tecnologia, com **21 anos de idade** e <span style="color: #FF6347; font-size: 1.2em;">3 anos de experiência no desenvolvimento de software</span>. Minha paixão pela programação começou cedo e desde então tenho explorado diversas áreas, desde o desenvolvimento web até a computação em nuvem.
+Sou um entusiasta da tecnologia, com 21 anos de idade e 3 anos de experiência no desenvolvimento de software. Minha paixão pela programação começou cedo e desde então tenho explorado diversas áreas, desde o desenvolvimento web até a computação em nuvem.
 
-Atualmente, estou **cursando React Native na Rocketseat**, aprimorando minhas habilidades de desenvolvimento de aplicativos móveis e buscando sempre aprender algo novo a cada dia.
+Atualmente, estou cursando React Native na Rocketseat, aprimorando minhas habilidades de desenvolvimento de aplicativos móveis e buscando sempre aprender algo novo a cada dia.
 
 ## Status 🎯
 
@@ -19,11 +19,11 @@ Dê uma olhada nas estatísticas do meu GitHub:
 
 ## Formações 🎓
 
-- <span style="color: #FFA500;">Técnico em Desenvolvimento de Sistemas</span>
+- Técnico em Desenvolvimento de Sistemas
 
 ## Certificados 🏅
 
-- <span style="color: #6A5ACD;">Certificado de ReactJs da Rocketseat</span>
+- Certificado de ReactJs da Rocketseat
 
 ## Habilidades 🛠️
 
